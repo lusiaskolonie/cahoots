@@ -2,7 +2,7 @@
   "name": "cahoots",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://wasabigeek.github.io/cahoots",
+  "homepage": "http://lusiaskolonie.github.io/cahoot",
   "dependencies": {
     "acorn": "^7.1.1",
     "bootstrap": "^4.4.1",
