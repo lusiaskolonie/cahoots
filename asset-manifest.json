@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cahoot/static/css/main.aa7cdbea.chunk.css",
+    "main.js": "/cahoot/static/js/main.0fead65a.chunk.js",
+    "main.js.map": "/cahoot/static/js/main.0fead65a.chunk.js.map",
+    "runtime-main.js": "/cahoot/static/js/runtime-main.3020a492.js",
+    "runtime-main.js.map": "/cahoot/static/js/runtime-main.3020a492.js.map",
+    "static/css/2.80f479d8.chunk.css": "/cahoot/static/css/2.80f479d8.chunk.css",
+    "static/js/2.85a13150.chunk.js": "/cahoot/static/js/2.85a13150.chunk.js",
+    "static/js/2.85a13150.chunk.js.map": "/cahoot/static/js/2.85a13150.chunk.js.map",
+    "index.html": "/cahoot/index.html",
+    "precache-manifest.1a691a41145d69dbe08657f31b4fa52b.js": "/cahoot/precache-manifest.1a691a41145d69dbe08657f31b4fa52b.js",
+    "service-worker.js": "/cahoot/service-worker.js",
+    "static/css/2.80f479d8.chunk.css.map": "/cahoot/static/css/2.80f479d8.chunk.css.map",
+    "static/css/main.aa7cdbea.chunk.css.map": "/cahoot/static/css/main.aa7cdbea.chunk.css.map",
+    "static/js/2.85a13150.chunk.js.LICENSE.txt": "/cahoot/static/js/2.85a13150.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3020a492.js",
+    "static/css/2.80f479d8.chunk.css",
+    "static/js/2.85a13150.chunk.js",
+    "static/css/main.aa7cdbea.chunk.css",
+    "static/js/main.0fead65a.chunk.js"
+  ]
+}
